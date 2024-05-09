@@ -1,12 +1,15 @@
-#banner{
+.banner{
     width: 100px;
     background-image: url(../../images/rivers.jpg);
     background-repeat: no-repeat;
 }
-#footer-box{
+.footer-box{
     width: 150px;
     background-color: gray;
 }
 .footer-one{
     color:green
+}
+.sierralogo{
+
 }
