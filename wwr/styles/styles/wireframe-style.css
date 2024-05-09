@@ -4,5 +4,9 @@
     background-repeat: no-repeat;
 }
 #footer-box{
+    width: 150px;
     background-color: gray;
+}
+.footer-one{
+    color:green
 }
