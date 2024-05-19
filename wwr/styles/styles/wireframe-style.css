@@ -29,7 +29,7 @@ main section{text-align: center;
 /* background-colors */
 
 body{
-    background-color: #89653B; 
+    background-color: #5d6c2d; 
 }
 
 header{
@@ -63,7 +63,7 @@ nav a:hover{
 
 footer{
     background-color: #748446; 
-    color: #ffffff;
+    color: #89653B;
     text-decoration: none;
 
 }
