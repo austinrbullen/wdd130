@@ -57,11 +57,9 @@ blockquote {
     color: white;
     margin: 0 auto;
     line-height: 1.0;
-    width: 300px;
+    width: 250px;
     font-size: 30px;
-    font-weight: bold;
     padding: 1em;
-
 }
 /* classes */
 .nelson {
